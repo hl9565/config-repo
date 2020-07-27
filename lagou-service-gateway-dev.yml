@@ -1,0 +1,4 @@
+ip:
+  limit:
+    minute: 1
+    max: 10
