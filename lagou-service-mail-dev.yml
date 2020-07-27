@@ -1,1 +1,5 @@
-
+mail:
+  host: smtp.qq.com
+  username: 285261065@qq.com
+  password: qhwefaflxtmecbaf
+  from: 285261065@qq.com
